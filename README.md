@@ -16,9 +16,8 @@
   <img align="center" alt="brunobso123-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   </div>
   
+  ##
   <br>
-    
-  <div> 
+<div>
   <a href="https://www.linkedin.com/in/bruno-souza-0b4366225/" target="_blank"><img height="25" width="80" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  </div>
+</div>
